@@ -14,7 +14,7 @@ resources:
       type: git
       name: TestingTriggers/test
  
-    - repository: alm2
+    - repository: TestingTriggers3
       type: git
       name: TestingTriggers/TestingTriggers3
 
