@@ -18,7 +18,7 @@ resources:
       type: git
       name: TestingTriggers/TestingTriggers3
 
-
+ 
 pool:
   vmImage: ubuntu-latest
 
